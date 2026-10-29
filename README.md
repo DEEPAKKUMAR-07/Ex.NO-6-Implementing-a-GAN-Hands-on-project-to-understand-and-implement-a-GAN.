@@ -167,5 +167,5 @@ if (i + 1) % 100 == 0:
     
 
 
-## Conclusion:
+## Result:
 Thus successfully implemented and trained a GAN that learns to generate realistic CIFAR-10 images through adversarial training.
