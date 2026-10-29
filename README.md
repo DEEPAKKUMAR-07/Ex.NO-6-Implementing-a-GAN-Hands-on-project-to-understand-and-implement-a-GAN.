@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.optim as optim
 import torchvisionfrom torchvision
 import datasets, transforms
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import numpy as np
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 Step 2: Defining Image Transformations
